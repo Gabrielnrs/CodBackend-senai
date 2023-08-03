@@ -1,0 +1,15 @@
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\bin\Debug\net6.0\Atividade_CodBackend.exe
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\bin\Debug\net6.0\Atividade_CodBackend.deps.json
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\bin\Debug\net6.0\Atividade_CodBackend.runtimeconfig.json
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\bin\Debug\net6.0\Atividade_CodBackend.dll
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\bin\Debug\net6.0\Atividade_CodBackend.pdb
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.csproj.AssemblyReference.cache
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.AssemblyInfoInputs.cache
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.AssemblyInfo.cs
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.csproj.CoreCompileInputs.cache
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.dll
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\refint\Atividade_CodBackend.dll
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.pdb
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\Atividade_CodBackend.genruntimeconfig.cache
+C:\Users\SmartID\Documents\Projetos\BackEnd\Atividade_CodBackend\obj\Debug\net6.0\ref\Atividade_CodBackend.dll
